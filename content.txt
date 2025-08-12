@@ -21,4 +21,16 @@
 5.End to End Project (chatbook class)
 
 
+    *Function vs methods
+    *magic method or dunter method
+    *self
+    *You can create attribute outside class as well
+
+    *encapsulation
+    *getter and setter
+    *static method
+
+
+
+
 
